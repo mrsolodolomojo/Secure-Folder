@@ -1,0 +1,9 @@
+{
+  "short_name": "Secure Folder",
+  "name": "Samsung Secure Folder Replica",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0e17",
+  "theme_color": "#0a0e17",
+  "orientation": "portrait"
+}

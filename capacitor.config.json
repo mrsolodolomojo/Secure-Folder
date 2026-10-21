@@ -1,0 +1,9 @@
+{
+  "appId": "com.knox.securefolder.replica",
+  "appName": "Secure Folder",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
